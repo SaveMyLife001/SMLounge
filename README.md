@@ -11,7 +11,7 @@
 
 ## Table of contents 
 
-Наш дискорд сервер: (https://discord.com/invite/5eNbKcTA) 
+- Наш дискорд сервер: (https://discord.com/invite/5eNbKcTA) 
 
 ## Creators
 
