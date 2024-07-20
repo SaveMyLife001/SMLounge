@@ -96,7 +96,6 @@ For transparency into our release cycle and in striving to maintain backward com
 ## Creators
 
 **¥SaveMyLufe | Лидер проекта**
-
 <https://discord.com/invite/7PrgR9uw>
 
 ## Thanks
