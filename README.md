@@ -6,8 +6,7 @@
 <h3 align="center">SMLounge</h3> 
 
 <p align="center"> 
-  Это официальный сайт проекта SMLounge тут будет написана вся информация нашего проекта, все правила проекта и много чего ещё вы тут найдëте. 
-  <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a> 
+  Это официальный сайт проекта SMLounge тут будет написана вся информация нашего проекта, все правила проекта и много чего ещё вы тут найдëте.
   <br> 
   <br> 
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a> 
