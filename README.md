@@ -6,8 +6,7 @@
 <h3 align="center">SMLounge</h3> 
 
 <p align="center"> 
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development. 
-  <br> 
+  Сайт проекта SMLounge тут будет написана вся информация нашего проекта, все правила проекта и много чего ещё вы тут найдëте. 
   <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a> 
   <br> 
   <br> 
