@@ -131,9 +131,8 @@ For transparency into our release cycle and in striving to maintain backward com
 
 ## Creators
 
-**Mark Otto**
-+ <https://twitter.com/mdo>
-+ <https://github.com/mdo>
+**¥SaveMyLife¥**
++ <https://discord.com/invite/7PrgR9uw>
 
 **Jacob Thornton**
 + <https://twitter.com/fat>
