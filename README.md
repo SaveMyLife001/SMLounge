@@ -65,7 +65,3 @@ For transparency into our release cycle and in striving to maintain backward com
 
 **¥SaveMyLife | Лидер проекта**
 + <https://discord.com/invite/7PrgR9uw>
-
-## Thanks
-
-Thanks to all our awesome contributors for their hard work and dedication. You can find a full list of contributors on our [contributors page](https://github.com/twbs/bootstrap/graphs/contributors).
