@@ -6,7 +6,7 @@
 <h3 align="center">SMLounge</h3> 
 
 <p align="center"> 
-  Сайт проекта SMLounge тут будет написана вся информация нашего проекта, все правила проекта и много чего ещё вы тут найдëте. 
+  Это официальный сайт проекта SMLounge тут будет написана вся информация нашего проекта, все правила проекта и много чего ещё вы тут найдëте. 
   <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a> 
   <br> 
   <br> 
