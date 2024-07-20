@@ -69,7 +69,3 @@ For transparency into our release cycle and in striving to maintain backward com
 ## Thanks
 
 Thanks to all our awesome contributors for their hard work and dedication. You can find a full list of contributors on our [contributors page](https://github.com/twbs/bootstrap/graphs/contributors).
-
-## Copyright and license
-
-Code and documentation copyright 2011-2023 the Bootstrap Authors and Twitter, Inc. Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
