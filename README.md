@@ -66,41 +66,7 @@ Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-starte
 [! [CSS gzip size](https://img.badgesize.io/twbs/bootstrap/main/dist/css/bootstrap.min.css?compression=gzip&label=CSS%20gzip%20size)](https://github.com/twbs/bootstrap/blob/main/dist/css/bootstrap.min.css)
 [! [JS gzip size](https://img.badgesize.io/twbs/bootstrap/main/dist/js/bootstrap.min.js?compression=gzip&label=JS%20gzip%20size)](https://github.com/twbs/bootstrap/blob/main/dist/js/bootstrap.min.js)
 
-## What's included
 
-Within the download, you'll find the following directories and files, logically grouping common assets and providing both compiled and raw files for Sass, JavaScript, and documentation.
-
-* `dist/`
-	+ `css/`
-		- `bootstrap.css`
-		- `bootstrap.css.map`
-		- `bootstrap.min.css`
-		- `bootstrap.min.css.map`
-	+ `js/`
-		- `bootstrap.js`
-		- `bootstrap.js.map`
-		- `bootstrap.min.js`
-		- `bootstrap.min.js.map`
-* `docs/`
-	+ `examples/`
-	+ `getting-started/`
-	+ `layout/`
-	+ `components/`
-	+ `utilities/`
-	+ `extend/`
-* `js/`
-	+ `src/`
-		- `alert.js`
-		- `button.js`
-		- ...
-	+ `tests/`
-* `scss/`
-	+ `mixins/`
-	+ `utilities/`
-	+ `components/`
-	+ `layout/`
-	+ `themes/`
-* `tests/`
 
 ## Bugs and feature requests
 
