@@ -34,27 +34,6 @@
 - [Thanks](#thanks) 
 - [Copyright and license](#copyright-and-license)
 
-## Bugs and feature requests
-
-Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
-
-## Documentation
-
-Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](https://jekyllrb.com/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
-
-## Community
-
-Get updates on Bootstrap's development and chat with the project maintainers and community members.
-
-* Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap)
-* Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/)
-* Participate in discussions on the [issue tracker](https://github.com/twbs/bootstrap/issues)
-* Chat with us on [IRC](https://kiwiirc.com/nextclient/irc.freenode.net/bootstrap)
-
-## Versioning
-
-For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under the Semantic Versioning guidelines. Sometimes we screw up, but we'll do our best to adhere to those rules.
-
 ## Creators
 
 **¥SaveMyLife | Лидер проекта**
