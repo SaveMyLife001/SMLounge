@@ -12,7 +12,7 @@
 ## Table of contents 
 
 - Наш дискорд сервер: (https://discord.com/invite/5eNbKcTA) 
-
+- Правила Дискорд сервера: () 
 ## Creators
 
 **¥SaveMyLife | Лидер проекта**
