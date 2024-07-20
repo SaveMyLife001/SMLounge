@@ -59,12 +59,6 @@ Have a bug or a feature request? Please search for existing and closed issues. I
 
 Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](https://jekyllrb.com/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
 
-## Contributing
-
-Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/main/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, if your pull request contains JavaScript changes, please include relevant unit tests. If your pull request contains CSS changes, please include relevant screenshots of the changes.
-
 ## Community
 
 Get updates on Bootstrap's development and chat with the project maintainers and community members.
