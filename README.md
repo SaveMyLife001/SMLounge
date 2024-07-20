@@ -62,3 +62,87 @@ Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-starte
 [! [NuGet](https://img.shields.io/nuget/vpre/bootstrap?logo=nuget&logoColor=fff)](https://www.nuget.org/packages/bootstrap/absoluteLatest) 
 [! [Coverage Status](https://img.shields.io/coveralls/github/twbs/bootstrap/main?logo=coveralls&logoColor=fff)](https://coveralls.io/github/twbs/bootstrap?branch=main) 
 [! [CSS gzip size](https://img.badgesize.io/twbs/bootstrap/main/dist/css/bootstrap.min.css?compression=g
+
+[! [CSS gzip size](https://img.badgesize.io/twbs/bootstrap/main/dist/css/bootstrap.min.css?compression=gzip&label=CSS%20gzip%20size)](https://github.com/twbs/bootstrap/blob/main/dist/css/bootstrap.min.css)
+[! [JS gzip size](https://img.badgesize.io/twbs/bootstrap/main/dist/js/bootstrap.min.js?compression=gzip&label=JS%20gzip%20size)](https://github.com/twbs/bootstrap/blob/main/dist/js/bootstrap.min.js)
+
+## What's included
+
+Within the download, you'll find the following directories and files, logically grouping common assets and providing both compiled and raw files for Sass, JavaScript, and documentation.
+
+* `dist/`
+	+ `css/`
+		- `bootstrap.css`
+		- `bootstrap.css.map`
+		- `bootstrap.min.css`
+		- `bootstrap.min.css.map`
+	+ `js/`
+		- `bootstrap.js`
+		- `bootstrap.js.map`
+		- `bootstrap.min.js`
+		- `bootstrap.min.js.map`
+* `docs/`
+	+ `examples/`
+	+ `getting-started/`
+	+ `layout/`
+	+ `components/`
+	+ `utilities/`
+	+ `extend/`
+* `js/`
+	+ `src/`
+		- `alert.js`
+		- `button.js`
+		- ...
+	+ `tests/`
+* `scss/`
+	+ `mixins/`
+	+ `utilities/`
+	+ `components/`
+	+ `layout/`
+	+ `themes/`
+* `tests/`
+
+## Bugs and feature requests
+
+Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
+
+## Documentation
+
+Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](https://jekyllrb.com/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
+
+## Contributing
+
+Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/main/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+Moreover, if your pull request contains JavaScript changes, please include relevant unit tests. If your pull request contains CSS changes, please include relevant screenshots of the changes.
+
+## Community
+
+Get updates on Bootstrap's development and chat with the project maintainers and community members.
+
+* Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap)
+* Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/)
+* Participate in discussions on the [issue tracker](https://github.com/twbs/bootstrap/issues)
+* Chat with us on [IRC](https://kiwiirc.com/nextclient/irc.freenode.net/bootstrap)
+
+## Versioning
+
+For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under the Semantic Versioning guidelines. Sometimes we screw up, but we'll do our best to adhere to those rules.
+
+## Creators
+
+**Mark Otto**
++ <https://twitter.com/mdo>
++ <https://github.com/mdo>
+
+**Jacob Thornton**
++ <https://twitter.com/fat>
++ <https://github.com/fat>
+
+## Thanks
+
+Thanks to all our awesome contributors for their hard work and dedication. You can find a full list of contributors on our [contributors page](https://github.com/twbs/bootstrap/graphs/contributors).
+
+## Copyright and license
+
+Code and documentation copyright 2011-2023 the Bootstrap Authors and Twitter, Inc. Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
