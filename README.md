@@ -6,16 +6,7 @@
 <h3 align="center">SMLounge</h3> 
 
 <p align="center"> 
-  Это официальный сайт проекта SMLounge тут будет написана вся информация нашего проекта, все правила проекта и много чего ещё вы тут найдëте.
-  <br> 
-  <br> 
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a> 
-  · 
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a> 
-  · 
-  <a href="https://themes.getbootstrap.com/">Themes</a> 
-  · 
-  <a href="https://blog.getbootstrap.com/">Blog</a> 
+  Это официальный сайт проекта SMLounge тут будет написана вся информация нашего проекта, все правила проекта и много чего ещё вы тут найдëте. 
 </p>
 
 ## Table of contents 
