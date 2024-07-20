@@ -95,13 +95,8 @@ For transparency into our release cycle and in striving to maintain backward com
 
 ## Creators
 
-**Mark Otto**
-+ <https://twitter.com/mdo>
-+ <https://github.com/mdo>
-
-**Jacob Thornton**
-+ <https://twitter.com/fat>
-+ <https://github.com/fat>
+**¥SaveMyLufe | Лидер проекта**
+<https://discord.com/invite/7PrgR9uw>
 
 ## Thanks
 
